@@ -1,0 +1,8 @@
+.chartContainer {
+  height: auto;
+  width: auto;
+  padding: 25px 24px;
+  border-radius: 16px;
+  border: 1px solid rgba(43, 127, 255, 0.2);
+  margin: 20px;
+}

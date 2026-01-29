@@ -1,0 +1,15 @@
+.dashboardPage {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  background-color: rgba(22, 36, 86, 1);
+}
+
+.leftSection {
+  width: fit-content;
+}
+
+.mainSection {
+  width: 85.7%;
+  box-sizing: border-box;
+}
