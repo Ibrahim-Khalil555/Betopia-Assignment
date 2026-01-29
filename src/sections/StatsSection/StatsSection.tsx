@@ -3,10 +3,6 @@ import StatsCard from "../../components/StatsCard/StatsCard";
 import { IoCallOutline } from "react-icons/io5";
 
 const StatsSection = () => {
-  // const iconBackground = {
-  //   blue: "background-color: rgba(43, 127, 255, 1)",
-  // };
-  // console.log(styles.blue);
   return (
     <>
       <div className={styles.statSection}>
