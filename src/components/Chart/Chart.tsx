@@ -8,7 +8,7 @@ import {
   Title,
   Tooltip,
   Legend,
-  Filler, // Import the Filler plugin
+  Filler, 
 } from "chart.js";
 
 const Chart = () => {
@@ -20,7 +20,7 @@ const Chart = () => {
     Title,
     Tooltip,
     Legend,
-    Filler, // Register the Filler plugin
+    Filler, 
   );
   const data = {
     labels: ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
