@@ -7,3 +7,5 @@ Open the project in VS Code.
 Then Run command in VS Code Terminal 'npm install'.
 
 Then Run command in VS Code Terminal 'npm run dev'.
+
+Live Link: [https://betopia-assignment.vercel.app/]
